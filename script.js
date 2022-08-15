@@ -37,12 +37,4 @@ window.onclick = function(event){
         dropdown2.style.display = "none";
         dropdown3.style.display = "none";
     }
-    else{
-        menu_icon.style.border = "none";
-        sign_up.style.display = "none";
-        nav.style.display = "none";
-        dropdown1.style.display = "none";
-        dropdown2.style.display = "none";
-        dropdown3.style.display = "none";
-    }
 }
