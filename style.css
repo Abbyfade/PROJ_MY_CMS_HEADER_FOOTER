@@ -225,7 +225,7 @@ footer h1{
     padding-right: 3px;
 }
 
-@media (max-width: 375px){
+@media (max-width: 850px){
     header{
         display: block;
     }
